@@ -15,7 +15,7 @@ currently completed degree <br>In computer science engineering <br>And intrested
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pranav8722&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
